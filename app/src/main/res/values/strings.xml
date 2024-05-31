@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">01</string>
+    <string name="sumar">Sumar</string>
+    <string name="resultado">Resultado</string>
+    <string name="n_mero_1">Número 1</string>
+    <string name="e_g_5">e.g 5</string>
+    <string name="n_mero_2">Número_2</string>
+    <string name="multiplicaci_n">Multiplicación</string>
+    <string name="resta">Resta</string>
+    <string name="suma">Suma</string>
+    <string name="Calcular">calcular</string>
+    <string name="divisi_n">División</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_main3">MainActivity3</string>
+</resources>
